@@ -22,4 +22,4 @@ Objetives
 Link to the App
 ---------------
 
-http://casivaagustin.com.ar/jsPoker - Feel free to play and report some bugs.
+https://casivaagustin.com/js-pocker/index.html - Feel free to play and report some bugs.
