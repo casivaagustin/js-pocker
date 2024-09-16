@@ -1,0 +1,67 @@
+body {
+    background-color: #0D5138;
+    color: #FFE700;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+.card {
+    float: left;
+    border: 3px solid #0D5138;
+}
+
+.hand {
+    width: 465px;
+    height: 150px;
+    clear: both;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.board {
+    float: left;
+}
+
+.player {
+    float: right;
+}
+
+.actions {
+    text-align: right;
+}
+
+.games {
+    height: 200px;
+}
+
+.prize {
+    font-size: 20px;
+    height: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+   
+.header {
+    text-align: center;
+}
+
+.btn {
+    width: 100px;
+}
+
+.holded {
+    border: 3px solid red;
+}
+
+.board .title {
+    width: 230px;
+    text-transform: uppercase;
+    display: inline-block;
+}
+
+.board .points {
+    font-weight: bold;
+}
